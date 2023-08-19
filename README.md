@@ -1,6 +1,6 @@
 # 🌸 Hi! I'm Alice! 
 ![](https://komarev.com/ghpvc/?username=itsalicelee)
-- 🐻 I am an incoming MEng student at UC Berkeley EECS
+- 🐻 I am an MEng student at UC Berkeley EECS with a concentration on Data Science and Systems
 - 🌴 I received my bachelor's degree from National Taiwan University
 - 🦓 I am currently working on [Zeabur](https://zeabur.com/), a platform that helps developers to deploy services with a single click
 
