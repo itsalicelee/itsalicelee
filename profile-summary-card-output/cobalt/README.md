@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/itsalicelee/itsalicelee/master/profile-summary-card-output/cobalt/4-productive-time.svg)
-```
-
-    
