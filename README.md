@@ -1,8 +1,7 @@
 # 🌸 Hi! I'm Alice! 
 ![](https://komarev.com/ghpvc/?username=itsalicelee)
-- 🐻 I am an MEng student at UC Berkeley EECS with a concentration on Data Science and Systems
+- 🐻 I graduated from UC Berkeley EECS with a concentration on Data Science and Systems
 - 🌴 I received my bachelor's degree from National Taiwan University
-- 🦓 I am currently working on [Zeabur](https://zeabur.com/), a platform that helps developers to deploy services with a single click
 
 ## Connect with me 🤝
 <a href="https://www.linkedin.com/in/itsalicelee/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
